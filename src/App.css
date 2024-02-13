@@ -50,7 +50,7 @@ ul {
     background: transparent;
     color: white;
     border: 1px solid white;
-    transition: all linear 0.3s;
+    transition: all linear 500ms;
 }
 
 .nav_btn:hover {
@@ -109,6 +109,7 @@ ul {
     background: linear-gradient(306.99deg, #51C8EF -13.72%, #7AF57A 102.02%);
     color: white;
     border: 1px solid transparent;
+    transition: all linear 300ms;
 
 }
 
@@ -348,7 +349,7 @@ ul {
     background: linear-gradient(306.99deg, #51C8EF -13.72%, #7AF57A 102.02%);
     color: white;
     border: 1px solid #7AF57A;
-
+transition: all linear 300ms;
 }
 
 .Mostrar_btn:hover {
@@ -890,7 +891,9 @@ ul {
 .justify_center {
     justify-content: unset;
 }
-
+.cursel_pointer{
+    cursor: pointer;
+}
 .copyright_text {
     font-family: 'Inter', sans-serif;
     font-size: 16px;

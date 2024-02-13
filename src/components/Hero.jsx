@@ -8,7 +8,7 @@ function Hero() {
           <div className="container">
             <div className=" d-flex align-items-center justify-content-between">
               <div>
-                <img src={heroimg} alt="heroimg" />
+                <img className="cursel_pointer" src={heroimg} alt="heroimg" />
               </div>
 
               <label for="icon" class="icon">

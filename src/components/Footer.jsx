@@ -10,7 +10,7 @@ function footer() {
         </div>
         <div className="row">
           <div className="col-lg-4 col-md-6 col-12">
-            <img src={heroimg} alt="logo" />
+            <img className="cursel_pointer" src={heroimg} alt="logo" />
             <p className="footer_pera pt-3 mb-0">
               En Exclusive Games somos un equipo apasionado de personas
               dedicadas al desarrollo de multiplataformas para juegos de azar

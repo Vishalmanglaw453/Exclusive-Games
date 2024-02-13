@@ -702,7 +702,7 @@ function Nuestra() {
               protegidas por cifrado SSL de 256 bits.
             </p>
           </div>
-          <div className="row">
+          <div className="row pt_60">
             <div className="col-lg-4 col-sm-6 col-12 d-flex d-lg-block justify-content-center ">
               <div className=" position-relative overflow-hidden lyar_inn">
                 <img className=" w-100 img_max_width" src={img1} alt="img" />
@@ -909,7 +909,7 @@ function Nuestra() {
             </div>
           </div>
         </div>
-        <div className="jackpot_ellipe eppipes_484 d-none d-lg-block"></div>
+        
 
       </div>
     </div>
